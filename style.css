@@ -52,7 +52,9 @@ main{
     flex-wrap: wrap;
 }
 .info {
-   
+     color:#000000;
+   font-size: 30px;
+} 
 }
 
 article {
